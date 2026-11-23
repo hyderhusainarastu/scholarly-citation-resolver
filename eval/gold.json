@@ -1,0 +1,507 @@
+[
+ {
+  "id": "watson-crick-1953",
+  "form": "article",
+  "query": "Watson J.D., Crick F.H.C. (1953) Molecular structure of nucleic acids. Nature 171, 737-738",
+  "title": "Molecular Structure of Nucleic Acids",
+  "firstAuthor": "Watson",
+  "year": 1953,
+  "expect": {
+   "doi": "10.1038/171737a0"
+  }
+ },
+ {
+  "id": "shannon-1948",
+  "form": "article",
+  "query": "C. E. Shannon, A mathematical theory of communication, Bell System Technical Journal 27 (1948) 379-423",
+  "title": "A Mathematical Theory of Communication",
+  "firstAuthor": "Shannon",
+  "year": 1948,
+  "expect": {
+   "doi": "10.1002/j.1538-7305.1948.tb01338.x"
+  }
+ },
+ {
+  "id": "turing-1950",
+  "form": "article",
+  "query": "Turing, A. M. (1950). Computing machinery and intelligence. Mind, 59(236), 433-460.",
+  "title": "Computing Machinery and Intelligence",
+  "firstAuthor": "Turing",
+  "year": 1950,
+  "expect": {
+   "doi": "10.1093/mind/lix.236.433"
+  }
+ },
+ {
+  "id": "hardin-1968",
+  "form": "article",
+  "query": "Hardin, G. 1968. The tragedy of the commons. Science 162(3859): 1243-1248",
+  "title": "The Tragedy of the Commons",
+  "firstAuthor": "Hardin",
+  "year": 1968,
+  "expect": {
+   "doi": "10.1126/science.162.3859.1243"
+  }
+ },
+ {
+  "id": "gettier-1963",
+  "form": "article",
+  "query": "Gettier, Edmund L. \"Is Justified True Belief Knowledge?\" Analysis 23 (1963): 121-123.",
+  "title": "Is Justified True Belief Knowledge?",
+  "firstAuthor": "Gettier",
+  "year": 1963,
+  "expect": {
+   "doi": "10.1093/analys/23.6.121"
+  }
+ },
+ {
+  "id": "kahneman-tversky-1979",
+  "form": "article",
+  "query": "Kahneman D, Tversky A (1979) Prospect theory: an analysis of decision under risk. Econometrica 47(2):263-291",
+  "title": "Prospect Theory: An Analysis of Decision under Risk",
+  "firstAuthor": "Kahneman",
+  "year": 1979,
+  "expect": {
+   "doi": "10.2307/1914185"
+  }
+ },
+ {
+  "id": "akerlof-1970",
+  "form": "article",
+  "query": "Akerlof, George A. 1970. The Market for 'Lemons': Quality Uncertainty and the Market Mechanism. Quarterly Journal of Economics 84(3), 488-500",
+  "title": "The Market for Lemons: Quality Uncertainty and the Market Mechanism",
+  "firstAuthor": "Akerlof",
+  "year": 1970,
+  "expect": {
+   "doi": "10.2307/1879431"
+  }
+ },
+ {
+  "id": "coase-1937",
+  "form": "article",
+  "query": "Coase R.H., The nature of the firm, Economica 4 (16), 1937, pp. 386-405",
+  "title": "The Nature of the Firm",
+  "firstAuthor": "Coase",
+  "year": 1937,
+  "expect": {
+   "doi": "10.1111/j.1468-0335.1937.tb00002.x"
+  }
+ },
+ {
+  "id": "granovetter-1973",
+  "form": "article",
+  "query": "Granovetter, M. S. (1973). The strength of weak ties. American Journal of Sociology, 78(6), 1360-1380",
+  "title": "The Strength of Weak Ties",
+  "firstAuthor": "Granovetter",
+  "year": 1973,
+  "expect": {
+   "doi": "10.1086/225469"
+  }
+ },
+ {
+  "id": "nash-1950",
+  "form": "article",
+  "query": "Nash, John F. Equilibrium points in n-person games. Proc. Natl. Acad. Sci. USA 36(1):48-49 (1950)",
+  "title": "Equilibrium points in n-person games",
+  "firstAuthor": "Nash",
+  "year": 1950,
+  "expect": {
+   "doi": "10.1073/pnas.36.1.48"
+  }
+ },
+ {
+  "id": "hodgkin-huxley-1952",
+  "form": "article",
+  "query": "Hodgkin AL, Huxley AF. A quantitative description of membrane current and its application to conduction and excitation in nerve. J Physiol. 1952;117(4):500-544",
+  "title": "A quantitative description of membrane current and its application to conduction and excitation in nerve",
+  "firstAuthor": "Hodgkin",
+  "year": 1952,
+  "expect": {
+   "doi": "10.1113/jphysiol.1952.sp004764"
+  }
+ },
+ {
+  "id": "lecun-2015",
+  "form": "article",
+  "query": "LeCun Y., Bengio Y., Hinton G. Deep learning. Nature 521, 436-444 (2015)",
+  "title": "Deep learning",
+  "firstAuthor": "LeCun",
+  "year": 2015,
+  "expect": {
+   "doi": "10.1038/nature14539"
+  }
+ },
+ {
+  "id": "hirsch-2005",
+  "form": "article",
+  "query": "Hirsch, J. E. (2005) An index to quantify an individual's scientific research output. PNAS 102(46), 16569-16572",
+  "title": "An index to quantify an individual's scientific research output",
+  "firstAuthor": "Hirsch",
+  "year": 2005,
+  "expect": {
+   "doi": "10.1073/pnas.0507655102"
+  }
+ },
+ {
+  "id": "hubel-wiesel-1962",
+  "form": "article",
+  "query": "Hubel, D. H. and Wiesel, T. N. Receptive fields, binocular interaction and functional architecture in the cat's visual cortex. Journal of Physiology 160 (1962) 106-154",
+  "title": "Receptive fields, binocular interaction and functional architecture in the cat's visual cortex",
+  "firstAuthor": "Hubel",
+  "year": 1962,
+  "expect": {
+   "doi": "10.1113/jphysiol.1962.sp006837"
+  }
+ },
+ {
+  "id": "lorenz-1963",
+  "form": "article",
+  "query": "Lorenz, Edward N. Deterministic nonperiodic flow. Journal of the Atmospheric Sciences 20(2), 130-141, 1963",
+  "title": "Deterministic Nonperiodic Flow",
+  "firstAuthor": "Lorenz",
+  "year": 1963,
+  "expect": {
+   "doi": "10.1175/1520-0469(1963)020<0130:dnf>2.0.co;2"
+  }
+ },
+ {
+  "id": "einstein-1905",
+  "form": "article",
+  "query": "Einstein, A. Zur Elektrodynamik bewegter Koerper. Annalen der Physik 322 (10), 891-921 (1905)",
+  "title": "Zur Elektrodynamik bewegter Körper",
+  "firstAuthor": "Einstein",
+  "year": 1905,
+  "expect": {
+   "doi": "10.1002/andp.19053221004"
+  }
+ },
+ {
+  "id": "stigler-1961",
+  "form": "article",
+  "query": "Stigler, G. J. (1961). The Economics of Information. Journal of Political Economy 69(3): 213-225.",
+  "title": "The Economics of Information",
+  "firstAuthor": "Stigler",
+  "year": 1961,
+  "expect": {
+   "doi": "10.1086/258464"
+  }
+ },
+ {
+  "id": "simon-1955",
+  "form": "article",
+  "query": "Simon, Herbert A. A behavioral model of rational choice. The Quarterly Journal of Economics 69(1), 1955, 99-118",
+  "title": "A Behavioral Model of Rational Choice",
+  "firstAuthor": "Simon",
+  "year": 1955,
+  "expect": {
+   "doi": "10.2307/1884852"
+  }
+ },
+ {
+  "id": "vaswani-2017",
+  "form": "preprint",
+  "query": "Vaswani et al. Attention is all you need. arXiv:1706.03762 (2017)",
+  "title": "Attention Is All You Need",
+  "firstAuthor": "Vaswani",
+  "year": 2017,
+  "expect": {
+   "arxiv": "1706.03762"
+  }
+ },
+ {
+  "id": "kingma-ba-2014",
+  "form": "preprint",
+  "query": "Kingma, D. P. and Ba, J. Adam: a method for stochastic optimization. arXiv preprint arXiv:1412.6980, 2014",
+  "title": "Adam: A Method for Stochastic Optimization",
+  "firstAuthor": "Kingma",
+  "year": 2014,
+  "expect": {
+   "arxiv": "1412.6980"
+  }
+ },
+ {
+  "id": "he-2015",
+  "form": "preprint",
+  "query": "He K, Zhang X, Ren S, Sun J. Deep residual learning for image recognition. arXiv preprint arXiv:1512.03385. 2015",
+  "title": "Deep Residual Learning for Image Recognition",
+  "firstAuthor": "He",
+  "year": 2015,
+  "expect": {
+   "arxiv": "1512.03385"
+  }
+ },
+ {
+  "id": "goodfellow-2014",
+  "form": "preprint",
+  "query": "Goodfellow, I. et al. Generative adversarial networks. arXiv preprint arXiv:1406.2661 (2014)",
+  "title": "Generative Adversarial Networks",
+  "firstAuthor": "Goodfellow",
+  "year": 2014,
+  "expect": {
+   "arxiv": "1406.2661"
+  }
+ },
+ {
+  "id": "devlin-2018",
+  "form": "preprint",
+  "query": "Devlin J., Chang M.-W., Lee K., Toutanova K. BERT: Pre-training of deep bidirectional transformers for language understanding. arXiv:1810.04805, 2018",
+  "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+  "firstAuthor": "Devlin",
+  "year": 2018,
+  "expect": {
+   "arxiv": "1810.04805"
+  }
+ },
+ {
+  "id": "mikolov-2013",
+  "form": "preprint",
+  "query": "Mikolov, T., Chen, K., Corrado, G., Dean, J. Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781 (2013)",
+  "title": "Efficient Estimation of Word Representations in Vector Space",
+  "firstAuthor": "Mikolov",
+  "year": 2013,
+  "expect": {
+   "arxiv": "1301.3781"
+  }
+ },
+ {
+  "id": "ioffe-szegedy-2015",
+  "form": "preprint",
+  "query": "Ioffe S., Szegedy C. Batch normalization: accelerating deep network training by reducing internal covariate shift. arXiv:1502.03167 (2015)",
+  "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
+  "firstAuthor": "Ioffe",
+  "year": 2015,
+  "expect": {
+   "arxiv": "1502.03167"
+  }
+ },
+ {
+  "id": "kuhn-1962",
+  "form": "book",
+  "query": "Kuhn, Thomas S. The Structure of Scientific Revolutions. University of Chicago Press, 1962.",
+  "title": "The Structure of Scientific Revolutions",
+  "firstAuthor": "Kuhn",
+  "year": 1962,
+  "expect": {
+   "isbn": "9780226458120"
+  }
+ },
+ {
+  "id": "orwell-1949",
+  "form": "book",
+  "query": "Orwell, George. Nineteen Eighty-Four. Secker & Warburg, London, 1949.",
+  "title": "Nineteen Eighty-Four",
+  "firstAuthor": "Orwell",
+  "year": 1949,
+  "expect": {
+   "isbn": "9780451524935"
+  }
+ },
+ {
+  "id": "austen-1813",
+  "form": "book",
+  "query": "Austen, Jane. Pride and Prejudice. Penguin Classics.",
+  "title": "Pride and Prejudice",
+  "firstAuthor": "Austen",
+  "year": 1813,
+  "expect": {
+   "isbn": "9780141439518"
+  }
+ },
+ {
+  "id": "darwin-1859",
+  "form": "book",
+  "query": "Darwin, Charles. On the Origin of Species by Means of Natural Selection. John Murray, 1859. Penguin Classics edition.",
+  "title": "On the Origin of Species",
+  "firstAuthor": "Darwin",
+  "year": 1859,
+  "expect": {
+   "isbn": "9780140432053"
+  }
+ },
+ {
+  "id": "rawls-1971",
+  "form": "book",
+  "query": "Rawls, John. A Theory of Justice. Harvard University Press, 1971 (rev. ed. 1999).",
+  "title": "A Theory of Justice",
+  "firstAuthor": "Rawls",
+  "year": 1971,
+  "expect": {
+   "isbn": "9780674000780"
+  }
+ },
+ {
+  "id": "smith-1776",
+  "form": "book",
+  "query": "Smith, Adam. An Inquiry into the Nature and Causes of the Wealth of Nations. Oxford University Press (1776/2008).",
+  "title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+  "firstAuthor": "Smith",
+  "year": 1776,
+  "expect": {
+   "isbn": "9780199535927"
+  }
+ },
+ {
+  "id": "hofstadter-1979",
+  "form": "book",
+  "query": "Hofstadter, Douglas R. Gödel, Escher, Bach: An Eternal Golden Braid. Basic Books, 1979.",
+  "title": "Gödel, Escher, Bach: An Eternal Golden Braid",
+  "firstAuthor": "Hofstadter",
+  "year": 1979,
+  "expect": {
+   "isbn": "9780465026562"
+  }
+ },
+ {
+  "id": "sagan-1980",
+  "form": "book",
+  "query": "Sagan, Carl. Cosmos. Random House, New York, 1980.",
+  "title": "Cosmos",
+  "firstAuthor": "Sagan",
+  "year": 1980,
+  "expect": {
+   "isbn": "9780345539434"
+  }
+ },
+ {
+  "id": "knuth-1968",
+  "form": "book",
+  "query": "Knuth, Donald E. The Art of Computer Programming, Volume 1: Fundamental Algorithms. Addison-Wesley.",
+  "title": "The Art of Computer Programming, Volume 1: Fundamental Algorithms",
+  "firstAuthor": "Knuth",
+  "year": 1968,
+  "expect": {
+   "isbn": "9780201896831"
+  }
+ },
+ {
+  "id": "cormen-1990",
+  "form": "book",
+  "query": "Cormen, T. H., Leiserson, C. E., Rivest, R. L., Stein, C. Introduction to Algorithms. MIT Press.",
+  "title": "Introduction to Algorithms",
+  "firstAuthor": "Cormen",
+  "year": 1990,
+  "expect": {
+   "isbn": "9780262046305"
+  }
+ },
+ {
+  "id": "kernighan-ritchie-1978",
+  "form": "book",
+  "query": "Kernighan, Brian W. and Dennis M. Ritchie. The C Programming Language. Prentice Hall, 1978.",
+  "title": "The C Programming Language",
+  "firstAuthor": "Kernighan",
+  "year": 1978,
+  "expect": {
+   "isbn": "9780131103627"
+  }
+ },
+ {
+  "id": "gamma-1994",
+  "form": "book",
+  "query": "Gamma, E., Helm, R., Johnson, R., Vlissides, J. Design Patterns: Elements of Reusable Object-Oriented Software. Addison-Wesley, 1994.",
+  "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+  "firstAuthor": "Gamma",
+  "year": 1994,
+  "expect": {
+   "isbn": "9780201633610"
+  }
+ },
+ {
+  "id": "brooks-1975",
+  "form": "book",
+  "query": "Brooks, Frederick P. The Mythical Man-Month: Essays on Software Engineering. Addison-Wesley, 1975.",
+  "title": "The Mythical Man-Month: Essays on Software Engineering",
+  "firstAuthor": "Brooks",
+  "year": 1975,
+  "expect": {
+   "isbn": "9780201835953"
+  }
+ },
+ {
+  "id": "said-1978",
+  "form": "book",
+  "query": "Said, Edward W. Orientalism. Pantheon Books, New York, 1978.",
+  "title": "Orientalism",
+  "firstAuthor": "Said",
+  "year": 1978,
+  "expect": {
+   "isbn": "9780394740676"
+  }
+ },
+ {
+  "id": "popper-1959",
+  "form": "book",
+  "query": "Popper, Karl. The Logic of Scientific Discovery. Routledge, 1959.",
+  "title": "The Logic of Scientific Discovery",
+  "firstAuthor": "Popper",
+  "year": 1959,
+  "expect": {
+   "isbn": "9780415278447"
+  }
+ },
+ {
+  "id": "sen-1999",
+  "form": "book",
+  "query": "Sen, Amartya. Development as Freedom. Oxford University Press, 1999.",
+  "title": "Development as Freedom",
+  "firstAuthor": "Sen",
+  "year": 1999,
+  "expect": {
+   "isbn": "9780385720274"
+  }
+ },
+ {
+  "id": "plato-republic",
+  "form": "classical",
+  "query": "Plato, Republic 514a-517c",
+  "title": null,
+  "firstAuthor": null,
+  "year": null,
+  "expect": null
+ },
+ {
+  "id": "aristotle-ne",
+  "form": "classical",
+  "query": "Aristotle, Nicomachean Ethics 1094a1-5",
+  "title": null,
+  "firstAuthor": null,
+  "year": null,
+  "expect": null
+ },
+ {
+  "id": "plato-phaedo",
+  "form": "classical",
+  "query": "Plato, Phaedo 64a-67b",
+  "title": null,
+  "firstAuthor": null,
+  "year": null,
+  "expect": null
+ },
+ {
+  "id": "absent-lighthouse",
+  "form": "absent",
+  "query": "Brandstrom, L. (1987) A Handbook of Imaginary Lighthouse Maintenance. Zephyr Press, Oslo.",
+  "title": null,
+  "firstAuthor": null,
+  "year": null,
+  "expect": null
+ },
+ {
+  "id": "absent-marmalade",
+  "form": "absent",
+  "query": "Okonkwo-Reyes, T. \"Quantum Marmalade Dynamics in Baroque Orchards.\" Journal of Unlikely Studies 12(3), 2011, 45-67.",
+  "title": null,
+  "firstAuthor": null,
+  "year": null,
+  "expect": null
+ },
+ {
+  "id": "absent-knitting",
+  "form": "absent",
+  "query": "Halvorsen, M. (1994) Gravitational Knitting Patterns for Beginners. Harbor Books.",
+  "title": null,
+  "firstAuthor": null,
+  "year": null,
+  "expect": null
+ }
+]
